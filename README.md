@@ -1,13 +1,13 @@
 # FluidScroll
 
+**FluidScroll** is a *lightweight*, *modern*, *customizable* and *ease to use* plugin that will enhance the user experience on your websites by overriding the default scroll. 
+
+Based on the following [**StackOverflow answer**](https://stackoverflow.com/a/47206289) by **Manuel Otto**
+
 [![npm](https://img.shields.io/npm/v/@mkoelewijn/fluidscroll.svg)](https://www.npmjs.com/package/@mkoelewijn/fluidscroll)
 [![npm](https://img.shields.io/npm/dt/@mkoelewijn/fluidscroll.svg)](https://www.npmjs.com/package/@mkoelewijn/fluidscroll)
 [![GitHub issues](https://img.shields.io/github/issues-raw/michaelkoelewijn/FluidScroll.svg)](https://github.com/michaelkoelewijn/FluidScroll/issues)
 ![NpmLicense](https://img.shields.io/npm/l/@mkoelewijn/fluidscroll.svg)
-
-**FluidScroll** is a *lightweight*, *modern*, *customizable* and *ease to use* plugin that will enhance the user experience on your websites by overriding the default scroll. 
-
-Based on the following [**StackOverflow answer**](https://stackoverflow.com/a/47206289) by **Manuel Otto**
 
 ## How to use
 #### Install FluidScroll using a package manager.
