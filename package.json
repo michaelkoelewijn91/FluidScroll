@@ -27,6 +27,5 @@
         "webpack-cli": "^3.2.1",
         "webpack-manifest-plugin": "^2.0.1"
     },
-    "dependencies": {
-    }
+    "dependencies": {}
 }
