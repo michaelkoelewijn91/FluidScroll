@@ -1,19 +1,24 @@
 # FluidScroll
 
+[![npm](https://img.shields.io/npm/v/@mkoelewijn/fluidscroll.svg)](https://www.npmjs.com/package/@mkoelewijn/fluidscroll)
+[![npm](https://img.shields.io/npm/dt/@mkoelewijn/fluidscroll.svg)](https://www.npmjs.com/package/@mkoelewijn/fluidscroll)
+[![GitHub issues](https://img.shields.io/github/issues-raw/michaelkoelewijn/FluidScroll.svg)](https://github.com/michaelkoelewijn/FluidScroll/issues)
+![NpmLicense](https://img.shields.io/npm/l/@mkoelewijn/fluidscroll.svg)
+
 **FluidScroll** is a *lightweight*, *modern*, *customizable* and *ease to use* plugin that will enhance the user experience on your websites by overriding the default scroll. 
 
-We, the guys at [**pakt.digital**](https://www.pakt.digital) weren't able to find any good scrollwheel plugins that are up to date to with the latest JS technologies. That's why we decided to make one ourselves using code provided by this [**StackOverflow answer**](https://stackoverflow.com/a/47206289) by **Manuel Otto**
+Based on the following [**StackOverflow answer**](https://stackoverflow.com/a/47206289) by **Manuel Otto**
 
 ## How to use
 #### Install FluidScroll using a package manager.
 ```console
-yarn add @pakt.digital/fluidscroll
-npm i @pakt.digital/fluidscroll --save
+yarn add @mkoelewijn/fluidscroll
+npm i @mkoelewijn/fluidscroll --save
 ```
 
 #### Import FluidScroll
 ```javascript
-import FluidScroll from "@pakt.digital/fluidscroll"
+import FluidScroll from "@mkoelewijn/fluidscroll"
 ```
 
 #### Usage
